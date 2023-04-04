@@ -1,4 +1,4 @@
-nav {
+nav-bar {
     text-align: center;
     margin-bottom: 50px;
     font-size: 20px;
@@ -105,8 +105,8 @@ body{
 }
 
 ::-webkit-input-placeholder {
-   color: white;
-   font-size: 15px;
+color: white;
+font-size: 15px;
 }
 
 :-moz-placeholder { /* Firefox 18- */
